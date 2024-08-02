@@ -111,7 +111,7 @@
         width: 20px;
     }
 
-    .services-container{
+    .services-data{
         grid-template-columns: 1fr 1fr;
         gap: 30px;
     }
